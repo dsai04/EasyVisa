@@ -1,4 +1,4 @@
-# 🛂 EasyVisa: Predicting US Employment Visa Certification
+# 🛂 EasyVisa: Predicting Employment Visa Certification
 
 A classification project that predicts whether a US employment-based visa application will be Certified or Denied. It uses 25,480 applications and 10 predictors, and compares five algorithms across three training setups: original data, oversampled data and undersampled data.
 

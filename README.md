@@ -102,7 +102,7 @@ Tuning helped the Decision Tree most. Random Forest finished with the highest F1
 
 | File | Description |
 |---|---|
-| `EasyVisa.ipynb` | Full analysis: EDA, five models, resampling, tuning |
+| `EasyVisa.html` | Full analysis: EDA, five models, resampling, tuning |
 | `EasyVisa.csv` | Data File |
 | `README.md` | This file |
 
